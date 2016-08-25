@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="C:/Proyectos/testgameLib/core/assets/image.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJwCAMQNHs4QgOoxvU/adoDgoSKqiNh5Z/+MSekkeTiCQtaqG+W9l8j8ov52j/bEW7NqfdH+p7Zb+Xv8/ed9o/4zrptz3d+0f/7t1e0+P/4cePHz9+/Pjx48eP/xv+G6Z1WTA=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1DlOAzEUxvHH2oetoYIATSrWniX0rD3rDeAGcAPgBMAJgEtwAJA4QGhSQxPxHzHWjKzBdpAfpsgn/TQaTaJPzx5PS0TepUjLuo+RPvRjAIMYwnD+7AOfpd/a9zFSwwhGMYZxTHj+MxnoOaB/CtOoYwazmAvsb3i8BfTPYwGLWMIyVgL+V5UznEt3869iDevYQBObv+y/wKV8z571h8y/hW3sYBd72M+fveC1dC0n1v4f4BBHOMYJTvNn5rxVnbtY+++KOW9V587MaPbcvsaIa/3NHps9t68x4lv/KjHjWn97rzX6u0nqfrMGWgn95mv2+857Q7k/c4Vr3Ch2/dSfzXeLO9wn6M884BFPf9yv/X77Evr+a52NkHff5T+sXcp+zW+DK20p5m8n6O9IMX8nQb+I/re5l1408gWGz03E
+  </data>
+ </layer>
+</map>
